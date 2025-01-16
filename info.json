@@ -1,0 +1,14 @@
+{
+  "name": "barreling-group2",
+  "version": "0.4.0",
+  "title": "Barreling Group",
+  "author": "pav, GeneralTank, Evilpla",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 1.1",
+    "? deadlock_stacked_recipes"
+  ],
+  "description": "Adds new group for barreling and unbarreling recipes and IBC's"
+}
