@@ -3,7 +3,9 @@ data:extend(
   {
     type = "item-group",
     name = "barreling",
-    icon = "__barreling-group-ex__/graphics/barrels.png",
+
+    
+    icon = "__barreling-group2__/graphics/barrels.png",
     icon_size = 128,
     order = "e"
   },
